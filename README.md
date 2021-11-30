@@ -5,7 +5,7 @@
 
 I'm beginning my career in Web Development.
 
-I’m currently learning through The Odin Project's full stack JavaScript curriculum and freeCodeCamp's Responsive Web Design Certification.
+I’m currently learning through The Odin Project's Full Stack JavaScript Curriculum and freeCodeCamp's JavaScript Algorithms and Data Structures Certification.
 
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" title="CSS3" alt="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" />
